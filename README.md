@@ -3,12 +3,6 @@
 
 ---
 
-## Websites
-
-- www.ddrk.me
-- www.tophub.today
-- www.gamersky.com
-
 ## Send notification
 
 > using telegram Bot  
